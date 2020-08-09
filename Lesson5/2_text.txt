@@ -1,0 +1,3 @@
+String_1: Hello my friend
+String_2: My name is Swetoch
+String_3: And you

@@ -1,0 +1,10 @@
+Ivanov 10154
+Petrov 15452
+Sidorov 16145.12
+Gromov 20445.5
+Rikov 16456
+Popov 25004
+Koppola 30245
+Vagner 404530
+Levin 20452
+Kasparov 15000.25
